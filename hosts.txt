@@ -23,7 +23,7 @@
 202		MMDVM	hellaszone.com					41000		0
 
 # 214 SPAIN P25 Reflector
-214		MMDVM		214p25.xreflector.es		41000		0
+214		MMDVM	214p25.xreflector.es			41000		0
 
 # 420 Super Freq
 420		MMDVM	hb.superfreqdigital.com			41000		0
@@ -134,19 +134,19 @@
 10350	MMDVM	warc.ddns.net					41000		0
 
 # 10400 Pacific	http://pacificp25.repeaters.info/
-10400	MMDVM		pacificp25.repeaters.info		41000		0
+10400	MMDVM	pacificp25.repeaters.info		41000		0
 
 # 10401 Pacific	TAC 1 http://pacifictac1.repeaters.info/
-10401	MMDVM		pacifictac1.repeaters.info		41010		0
+10401	MMDVM	pacifictac1.repeaters.info		41010		0
 
 # 10402	Pacific	TAC 2
-10402	P25NX		47.104.177.248					41000		0
+10402	P25NX	47.104.177.248					41000		0
 
 # 10403	Pacific	TAC 3 http://ysf.sz790.com:8082/
-10403	P25NX		ysf.sz790.com					41000		0
+10403	P25NX	ysf.sz790.com					41000		0
 
 # 10401	Pacific	TAC 4
-10404	P25NX		p25tw338.ddns.net				41000		0
+10404	P25NX	p25tw338.ddns.net				41000		0
 
 # 10700 Australia NSW Bridge to AU NSW YSF
 10700	MMDVM	p25nsw.gustotech.net			41000		0
@@ -219,6 +219,9 @@
 
 # 31444	RI DIGITAL LINK TG#31444
 31444	MMDVM	149.28.54.153					41000		0
+
+# 31555 Wisconsin
+31555	MMDVM	mmdvm-p25.v24bridge.net			41000		0
 
 # 31620 Kings of Digital
 31620	MMDVM	wb5ekup25.duckdns.org			41000		0
